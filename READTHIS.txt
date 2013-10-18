@@ -1,0 +1,6 @@
+Upon deployment the MAG3110 is initialized and begins taking calibration offset measurements for 90 minutes,
+taking measurements every 15 seconds for one orbital period.
+
+offset values are calculated then experiment begins.  Takes magnetometer readings every 3 minutes.
+
+estimated time until 10kb is reached is about 18.5 orbits
